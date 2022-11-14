@@ -1,1 +1,2 @@
-Probando probando... A ver qué pasa cuando alteramos ahora el archivo de texto.
+Funcionó todo perfecto.
+Ahora veré si puedo hacer commit escribiendo la descripción en VSCode sin tener que anteponer -m en el terminal.
